@@ -1,0 +1,10 @@
+C:\Users\Rosimary\source\repos\01 - Calculadora cSharp\bin\Debug\01 - Calculadora cSharp.exe.config
+C:\Users\Rosimary\source\repos\01 - Calculadora cSharp\bin\Debug\01 - Calculadora cSharp.exe
+C:\Users\Rosimary\source\repos\01 - Calculadora cSharp\bin\Debug\01 - Calculadora cSharp.pdb
+C:\Users\Rosimary\source\repos\01 - Calculadora cSharp\obj\Debug\01 - Calculadora cSharp.csproj.AssemblyReference.cache
+C:\Users\Rosimary\source\repos\01 - Calculadora cSharp\obj\Debug\_01___Calculadora_cSharp.Form1.resources
+C:\Users\Rosimary\source\repos\01 - Calculadora cSharp\obj\Debug\_01___Calculadora_cSharp.Properties.Resources.resources
+C:\Users\Rosimary\source\repos\01 - Calculadora cSharp\obj\Debug\01 - Calculadora cSharp.csproj.GenerateResource.cache
+C:\Users\Rosimary\source\repos\01 - Calculadora cSharp\obj\Debug\01 - Calculadora cSharp.csproj.CoreCompileInputs.cache
+C:\Users\Rosimary\source\repos\01 - Calculadora cSharp\obj\Debug\01 - Calculadora cSharp.exe
+C:\Users\Rosimary\source\repos\01 - Calculadora cSharp\obj\Debug\01 - Calculadora cSharp.pdb
